@@ -1,0 +1,11 @@
+
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "permissions": [
+    "notifications",
+    "audio",
+    "wake_lock"
+  ]
+}

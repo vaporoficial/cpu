@@ -1,0 +1,20 @@
+
+{
+  "short_name": "FocusIA",
+  "name": "Focus IA: Temporizador Mestre",
+  "description": "Temporizador e Alarme com Voz IA e modo Academia.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='120' fill='%234F46E5'/%3E%3Cpath d='M256 120c-75.1 0-136 60.9-136 136s60.9 136 136 136 136-60.9 136-136-60.9-136-136-136zm0 240c-57.4 0-104-46.6-104-104s46.6-104 104-104 104 46.6 104 104-46.6 104-104 104z' fill='white'/%3E%3Cpath d='M256 180v76l54 54' stroke='white' stroke-width='24' stroke-linecap='round' fill='none'/%3E%3C/svg%3E",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4F46E5",
+  "background_color": "#ffffff",
+  "orientation": "portrait",
+  "lang": "pt-BR"
+}
